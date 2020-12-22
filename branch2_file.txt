@@ -1,0 +1,2 @@
+This is branch 2 file
+Did some changes here.
