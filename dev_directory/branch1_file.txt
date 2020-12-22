@@ -1,1 +1,2 @@
-Thus is branch 1 file
+This is branch 1 file
+Did some changes here.
