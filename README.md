@@ -27,12 +27,12 @@ Q6: git push origin dev
     git push origin branch2
 Q7: git merge branch1
     git merge branch2
-Q8:
+Q8: git stash --all
     git checkout branch2
         git add .
         git commit -m "message"
     git checkout branch1
-        git stash pop .
+        git stash apply stash@{1}
         git add .
         git commit -m "message"
 
