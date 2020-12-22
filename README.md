@@ -20,6 +20,12 @@ Q4: git checckout branch1
         git commit -m "message"
 Q5: git commit --amend -m "changing branch 1 commit message"
     git commit --amend -m "changing branch 2 commit message"
+Q6: git push origin dev
+    git push origin branch1
+    git push origin branch2
+Q7: git merge branch1
+    git merge branch2
+
 
 
     
